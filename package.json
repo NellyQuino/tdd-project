@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NellyQuino/tdd-project/issues"
   },
-  "homepage": "https://github.com/NellyQuino/tdd-project#readme"
+  "homepage": "https://github.com/NellyQuino/tdd-project#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
