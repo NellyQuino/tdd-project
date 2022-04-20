@@ -1,22 +1,22 @@
 {
-  "name": "tdd-project",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NellyQuino/tdd-project.git"
-  },
-  "author": "@nellyquino",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/NellyQuino/tdd-project/issues"
-  },
-  "homepage": "https://github.com/NellyQuino/tdd-project#readme",
-  "devDependencies": {
-    "jest": "^27.5.1"
-  }
+    "name": "tdd-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./node_modules/jest/bin/jest.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NellyQuino/tdd-project.git"
+    },
+    "author": "@nellyquino",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/NellyQuino/tdd-project/issues"
+    },
+    "homepage": "https://github.com/NellyQuino/tdd-project#readme",
+    "devDependencies": {
+        "jest": "^27.5.1"
+    }
 }
